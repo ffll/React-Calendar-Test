@@ -1,0 +1,13 @@
+{
+  "name": "react-big-calendar-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "moment": "2.20.1",
+    "react": "16.0.0",
+    "react-big-calendar": "0.17.0",
+    "react-dom": "16.0.0"
+  }
+}
